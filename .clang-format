@@ -1,0 +1,6 @@
+NamespaceIndentation: None
+IndentWidth: 4
+TabWidth: 4
+MaxEmptyLinesToKeep: 2
+FixNamespaceComments: true
+BreakBeforeBraces: Allman
